@@ -53,6 +53,4 @@ _ _ _ _ _ _ _ _ _ _ _ _
 [ble]
 # Bluetooth + battery reporting (nice!nano measures battery via VDDH)
 enabled = true
-
-[battery]
 battery_adc_pin = "vddh"
